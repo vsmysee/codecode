@@ -1,6 +1,6 @@
 ---
 title: Spring1.0-BeanFactory
-date: 2020-02-05
+date: 2020-03-05
 categories: ['Spring']
 draft: false
 ---
