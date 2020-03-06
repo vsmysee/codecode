@@ -18,11 +18,11 @@ canonifyURLs = false
 [languages]
   [languages.en]
     contentDir = "content/en"
-    languageName = "English"
+    languageName = "code"
     weight = 1
   [languages.cn]
     contentDir = "content/cn"
-    languageName = "简体中文"
+    languageName = "诗"
     weight = 2
 
 [permalinks]
