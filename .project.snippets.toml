@@ -1,0 +1,27 @@
+q = """
+```
+```
+"""
+
+j = """
+{% highlight java %}
+
+{% endhighlight %}
+"""
+
+
+g = """
+{% highlight groovy %}
+
+{% endhighlight %}
+"""
+
+
+a = "[原文]()"
+
+
+m = """
+
+![](/images/)
+
+"""
