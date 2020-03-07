@@ -25,6 +25,7 @@ canonifyURLs = false
     languageName = "诗"
     weight = 2
 
+
 [permalinks]
     post = "/blog/:title/"
 
