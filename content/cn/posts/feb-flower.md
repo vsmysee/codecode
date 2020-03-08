@@ -12,3 +12,6 @@ draft: false
 但辞巴渝赴京都
 ```
 
+
+![](/images/feb-flower.jpg)
+
