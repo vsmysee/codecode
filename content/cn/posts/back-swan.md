@@ -1,6 +1,6 @@
 ---
 title: 黑天鹅
-date: 2019--08-12
+date: 2019-08-12
 categories: ['生活']
 draft: false
 ---
