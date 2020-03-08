@@ -12,3 +12,7 @@ draft: false
 万码细如毛
 ```
 
+![](/images/sun.jpg)
+
+
+
