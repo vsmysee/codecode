@@ -22,3 +22,8 @@ Software Developer
 ## Open Source
 
 [oh my idea](https://github.com/vsmysee/oh-my-idea)
+
+
+## My Another Tech Blog
+
+[blog](http://codecode.fun)
