@@ -5,17 +5,19 @@ type: page
 draft: false
 ---
 
-## About Me
-___
-
 Software Developer
-
 
 ## Interests
 
 * Poem
 * Reading
 
+## Tech
+
+* Java
+* Go
+* Kotlin
+* Groovy
 
 ## Open Source
 
