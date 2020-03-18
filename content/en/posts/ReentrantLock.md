@@ -1,5 +1,5 @@
 ---
-title: Redis-Lock
+title: ReentrantLock
 date: 2020-03-17
 categories: ['jdk']
 draft: false
